@@ -90,7 +90,7 @@ p {
 }
 
 .tm-main-bg {
-    background-image: url(../img/bg1.jpg);
+    background-image: bg1.jpg;
     background-repeat: no-repeat;
     background-position: 45% top;
     height: 800px;
@@ -99,9 +99,9 @@ p {
     margin-right: -40px;
 }
 
-.tm-about-bg { background-image: url(../img/bg2.jpg); }
-.tm-services-bg { background-image: url(../img/bg3.jpg); }
-.tm-contact-bg { background-image: url(../img/bg5.jpg); }
+.tm-about-bg { background-image: bg2.jpg; }
+.tm-services-bg { background-image:bg3.jpg; }
+.tm-contact-bg { background-image: bg5.jpg; }
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
