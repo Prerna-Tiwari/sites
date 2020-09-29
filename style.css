@@ -99,9 +99,9 @@ p {
     margin-right: -40px;
 } */
 
-.tm-about-bg { background-image: url("../bg2.jpg"); }
+/* .tm-about-bg { background-image: url("../bg2.jpg"); }
 .tm-services-bg { background-image:url("../bg3.jpg"); }
-.tm-contact-bg { background-image: url("../bg5.jpg"); }
+.tm-contact-bg { background-image: url("../bg5.jpg"); } */
 
 @media (max-width: 992px) {
     .tm-contact-bg { background-position: 80% top; }
