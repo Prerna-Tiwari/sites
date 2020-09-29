@@ -1,0 +1,87 @@
+body{
+    text-align: center;
+}
+.page{
+    width: 70%;
+    margin: 0 15%;
+    background-color: wheat;
+    padding: 1rem;
+}
+/* header section */
+#header{
+    display: flex;
+}
+.logo{
+    height: 8rem;
+    width: 6rem;
+    margin: 0 2rem ;
+    float: left;
+}
+.header_text{
+    text-align: center;
+}
+.header_text > h1{
+    background-color: sienna;
+    color:white;
+    display: block
+}
+.candidate_photo{
+   border: 1px solid sienna;
+   border-radius: 4%;
+    margin-top: 8rem;
+    margin-left: 2rem ;
+    width: 10rem;
+    height: 10rem;
+    text-align: center;
+   margin-left: 15rem;
+}
+#just_text > p{
+    text-align: left;
+}
+/* Mode of Transport section */
+#MOT{
+    text-align: left;
+}
+#course_info{
+    text-align: left;
+}
+#course_info > label,input{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+/* office use section */
+#office_use{
+    text-align: left;
+}
+#office_use > h3{
+    text-align: center;
+}
+
+/* Student details style */
+#student_details{
+    text-align: left;
+}
+.subjects{
+    text-align: left;
+}
+
+.naming_details{
+    text-align: left;
+}
+.submit_reset_buttons{
+    text-align: center;
+}
+button{
+    background-color: sienna;
+    color: white;
+    margin-top: 2rem;
+}
+#footer{
+    margin-top: 1rem;
+    text-align: center;
+}
+#footer > p{
+    background-color: sienna;
+    color: white;
+    margin:1rem;
+}
