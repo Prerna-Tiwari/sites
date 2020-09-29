@@ -89,7 +89,7 @@ p {
     color: #999;
 }
 
-.tm-main-bg {
+/* .tm-main-bg {
     background-image: url(../bg1.jpg);
     background-repeat: no-repeat;
     background-position: 45% top;
@@ -97,7 +97,7 @@ p {
     min-height: 500px;
     margin-left: -40px;
     margin-right: -40px;
-}
+} */
 
 .tm-about-bg { background-image: url("../bg2.jpg"); }
 .tm-services-bg { background-image:url("../bg3.jpg"); }
